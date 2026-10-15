@@ -20,7 +20,7 @@ ERP, embedded systems & cloud: from the circuit board to the product roadmap.
 ## Projects
 
 - **[SubSorter](https://github.com/FeaXR/YoutubePlaylistVideoAdder)**: a small self-hosted Laravel app (Docker, SQLite, Google OAuth, YouTube Data API v3) that collects new uploads from my YouTube subscriptions and adds them to playlists, with optional review and a scheduler.
-- **[CodeNames](https://github.com/FeaXR/CodeNames)**: a self-hosted Codenames board for playing around a table (Laravel, SQLite, Docker image on GHCR, Nginx + PHP-FPM). Players join with a game code, spymasters get their own key view and QR share links, and English and Hungarian word lists are included.
+- **[CodeNames](https://github.com/FeaXR/CodeNames)**: a self-hosted Codenames board for playing around a table (Laravel, SQLite, Docker image on GHCR, Nginx + PHP-FPM). Players join with a game code, spymasters get their own key view and QR share links, and English and Hungarian word lists are included. [Live demo](https://codenames.fixr.fyi)
 - **[Werewolf Moderator Board](https://github.com/FeaXR/Werewolf-game)**: a single-page, offline-capable moderator board for running in-person Werewolf/Mafia games, in plain HTML, CSS and JavaScript. [Live demo](https://feaxr.github.io/Werewolf-game/).
 - **Homelab:** a TrueNAS SCALE server at home running my [personal site](https://fixr.fyi), Nextcloud, a VPN server, media management, Odoo and Bambuddy.
 - **3D printing:** Fusion 360 designs on [MakerWorld](https://makerworld.com/en/@Fixr9).
