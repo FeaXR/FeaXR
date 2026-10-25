@@ -18,7 +18,7 @@ ERP, embedded systems & cloud: from the circuit board to the product roadmap.
 **Tools:** Git, Docker, Laravel, Jira, Visual Studio, Agile/Scrum, CI/CD
 
 ## Projects
-
+- **[OneTake](https://github.com/FeaXR/OneTake)**: desktop audio editor that turns one long recording into finished MP3 files. Built for the volunteer team I lead; cut event processing time by ~50%.
 - **[SubSorter](https://github.com/FeaXR/YoutubePlaylistVideoAdder)**: a small self-hosted Laravel app (Docker, SQLite, Google OAuth, YouTube Data API v3) that collects new uploads from my YouTube subscriptions and adds them to playlists, with optional review and a scheduler.
 - **[CodeNames](https://github.com/FeaXR/CodeNames)**: a self-hosted Codenames board for playing around a table (Laravel, SQLite, Docker image on GHCR, Nginx + PHP-FPM). Players join with a game code, spymasters get their own key view and QR share links, and English and Hungarian word lists are included. [Live demo](https://codenames.fixr.fyi)
 - **[Werewolf Moderator Board](https://github.com/FeaXR/Werewolf-game)**: a single-page, offline-capable moderator board for running in-person Werewolf/Mafia games, in plain HTML, CSS and JavaScript. [Live demo](https://feaxr.github.io/Werewolf-game/).
