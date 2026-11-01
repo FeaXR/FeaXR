@@ -24,7 +24,7 @@ ERP, embedded systems & cloud: from the circuit board to the product roadmap.
 - **[hejjacello.hu](https://hejjacello.hu)**: a bilingual (HU/EN) portfolio site for a cello-making workshop, in plain PHP, HTML, CSS and vanilla JavaScript with no framework, database or build step. It has a custom admin panel (session login, CSRF protection, rate limiting) so he can edit everything himself on cheap shared hosting, per-language indexable URLs with hreflang and structured data, and automatic deployment with GitHub Actions.
 - **[CodeNames](https://github.com/FeaXR/CodeNames)**: a self-hosted Codenames board for playing around a table (Laravel, SQLite, Docker image on GHCR, Nginx + PHP-FPM). Players join with a game code, spymasters get their own key view and QR share links, and English and Hungarian word lists are included.
 - **[Werewolf Moderator Board](https://github.com/FeaXR/Werewolf-game)**: a single-page, offline-capable moderator board for running in-person Werewolf/Mafia games, in plain HTML, CSS and JavaScript. [Live demo](https://feaxr.github.io/Werewolf-game/).
-- **Homelab:** a TrueNAS SCALE server at home running my [personal site](https://fixr.fyi), Nextcloud, a VPN server, media management, Odoo and Bambuddy.
+- **Homelab:** a TrueNAS SCALE server at home running my [personal site](https://fixr.fyi), Nextcloud, a VPN server, media management apps, Odoo, Bambuddy and more.
 - **3D printing:** Fusion 360 designs on [MakerWorld](https://makerworld.com/en/@Fixr9).
 
 ## Off the keyboard
