@@ -3,8 +3,6 @@
 **Electrical engineer, senior software engineer and project manager.**
 ERP, embedded systems & cloud: from the circuit board to the product roadmap.
 
-> Who said that programming, playing music, engineering and arts are not the same thing?
-
 ## What I do
 
 - **Now:** Project Manager at an early-stage startup in Budapest, leading a developer team. Finishing an M.Sc. in Engineering Management at MATE University (January 2027).
