@@ -11,9 +11,9 @@ ERP, embedded systems & cloud: from the circuit board to the product roadmap.
 
 ## What I work with
 
-**Languages:** C, C++, C#, Python, SQL, TypeScript, JavaScript, PHP
-**Engineering:** embedded systems, ERP, industrial automation, REST APIs, cloud
-**Tools:** Git, Docker, Laravel, Jira, Visual Studio, Agile/Scrum, CI/CD
+- **Languages:** C, C++, C#, Python, SQL, TypeScript, JavaScript, PHP
+- **Engineering:** embedded systems, ERP, industrial automation, REST APIs, cloud
+- **Tools:** Git, Docker, Laravel, Jira, Visual Studio, Agile/Scrum, CI/CD
 
 ## Projects
 
