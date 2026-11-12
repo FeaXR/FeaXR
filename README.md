@@ -27,7 +27,7 @@ ERP, embedded systems & cloud: from the circuit board to the product roadmap.
 
 ## Off the keyboard
 
-Motorcycle maintenance, photography, and music: cello, violin, double bass, jazz bass, electric bass and guitar.
+Biker, photographer, and musician: cello, violin, double bass, jazz bass, electric bass and guitar.
 
 ## Find me
 
