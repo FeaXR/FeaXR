@@ -23,7 +23,7 @@ ERP, embedded systems & cloud: from the circuit board to the product roadmap.
 - **[CodeNames](https://github.com/FeaXR/CodeNames)**: a self-hosted Codenames board for playing around a table (Laravel, SQLite, Docker image on GHCR, Nginx + PHP-FPM). Players join with a game code, spymasters get their own key view and QR share links, and English and Hungarian word lists are included. [Live demo](https://codenames.fixr.fyi/)
 - **[Werewolf Moderator Board](https://github.com/FeaXR/Werewolf-game)**: a single-page, offline-capable moderator board for running in-person Werewolf/Mafia games, in plain HTML, CSS and JavaScript. [Live demo](https://feaxr.github.io/Werewolf-game/).
 - **Homelab:** a TrueNAS SCALE server at home running my [personal site](https://fixr.fyi), Nextcloud, Tailscale, VPN server, media management apps, Odoo, Bambuddy, game servers and much more.
-- **3D printing:** Fusion 360 designs on [MakerWorld](https://makerworld.com/en/@Fixr9).
+- **3D printing:** Fusion 360 and MitCAD designs on [MakerWorld](https://makerworld.com/en/@Fixr9).
 
 ## Off the keyboard
 
